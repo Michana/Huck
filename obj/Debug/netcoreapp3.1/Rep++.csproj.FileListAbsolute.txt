@@ -1,0 +1,11 @@
+C:\Rep++\bin\Debug\netcoreapp3.1\Rep++.exe
+C:\Rep++\bin\Debug\netcoreapp3.1\Rep++.deps.json
+C:\Rep++\bin\Debug\netcoreapp3.1\Rep++.runtimeconfig.json
+C:\Rep++\bin\Debug\netcoreapp3.1\Rep++.runtimeconfig.dev.json
+C:\Rep++\bin\Debug\netcoreapp3.1\Rep++.dll
+C:\Rep++\bin\Debug\netcoreapp3.1\Rep++.pdb
+C:\Rep++\obj\Debug\netcoreapp3.1\Rep++.csprojAssemblyReference.cache
+C:\Rep++\obj\Debug\netcoreapp3.1\Rep++.AssemblyInfoInputs.cache
+C:\Rep++\obj\Debug\netcoreapp3.1\Rep++.AssemblyInfo.cs
+C:\Rep++\obj\Debug\netcoreapp3.1\Rep++.dll
+C:\Rep++\obj\Debug\netcoreapp3.1\Rep++.pdb
